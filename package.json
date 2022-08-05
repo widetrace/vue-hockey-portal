@@ -16,7 +16,7 @@
     "koa-send": "^5.0.0",
     "koa-static": "^5.0.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.6.11",
+    "mongoose": "^5.7.5",
     "npm-check-updates": "^3.2.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.3",
